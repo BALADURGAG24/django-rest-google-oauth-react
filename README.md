@@ -10,7 +10,7 @@ A modern Django 5 REST API project template with:
 ✅ User management (`users` app)  
 ✅ SQLite for development  
 ✅ Easily extendable for production (PostgreSQL, CORS, API versioning, etc.)
-
+ 
 ---
 
 ## ✨ Features
